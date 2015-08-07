@@ -1,0 +1,19 @@
+{
+  "name": "wdinstagram",
+  "version": "1.0.0",
+  "description": "An app that allows a user to post pictures.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "author": "Team BEKM",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.1",
+    "morgan": "^1.6.1"
+  }
+}
